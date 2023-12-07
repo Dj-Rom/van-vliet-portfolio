@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/van-vliet/static/css/main.362830a7.css",
+    "main.js": "/van-vliet/static/js/main.dca0791c.js",
+    "static/js/787.6a54156c.chunk.js": "/van-vliet/static/js/787.6a54156c.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/van-vliet/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/europe-map.avif": "/van-vliet/static/media/europe-map.a077d3efffc01192df4a.avif",
+    "index.html": "/van-vliet/index.html",
+    "main.362830a7.css.map": "/van-vliet/static/css/main.362830a7.css.map",
+    "main.dca0791c.js.map": "/van-vliet/static/js/main.dca0791c.js.map",
+    "787.6a54156c.chunk.js.map": "/van-vliet/static/js/787.6a54156c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362830a7.css",
+    "static/js/main.dca0791c.js"
+  ]
+}
