@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/van-vliet-portfolio/static/css/main.f35579c3.css",
-    "main.js": "/van-vliet-portfolio/static/js/main.c76a8607.js",
+    "main.css": "/van-vliet-portfolio/static/css/main.1b63dbef.css",
+    "main.js": "/van-vliet-portfolio/static/js/main.6f9e15cc.js",
     "static/js/787.6a54156c.chunk.js": "/van-vliet-portfolio/static/js/787.6a54156c.chunk.js",
     "static/media/Roboto-Regular.ttf": "/van-vliet-portfolio/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/europe-map.avif": "/van-vliet-portfolio/static/media/europe-map.a077d3efffc01192df4a.avif",
     "index.html": "/van-vliet-portfolio/index.html",
-    "main.f35579c3.css.map": "/van-vliet-portfolio/static/css/main.f35579c3.css.map",
-    "main.c76a8607.js.map": "/van-vliet-portfolio/static/js/main.c76a8607.js.map",
+    "main.1b63dbef.css.map": "/van-vliet-portfolio/static/css/main.1b63dbef.css.map",
+    "main.6f9e15cc.js.map": "/van-vliet-portfolio/static/js/main.6f9e15cc.js.map",
     "787.6a54156c.chunk.js.map": "/van-vliet-portfolio/static/js/787.6a54156c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f35579c3.css",
-    "static/js/main.c76a8607.js"
+    "static/css/main.1b63dbef.css",
+    "static/js/main.6f9e15cc.js"
   ]
 }
